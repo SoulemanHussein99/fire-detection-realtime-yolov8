@@ -1,0 +1,5 @@
+train:  D:/python/fire_detection/Dataset/train/images
+val:  D:/python/fire_detection/Dataset/val/images
+
+nc: 1
+names: ["fire"]
