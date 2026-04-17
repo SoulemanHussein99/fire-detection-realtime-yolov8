@@ -32,3 +32,6 @@ The system uses a webcam stream to perform live object detection and highlights 
 - Output: Bounding boxes + confidence scores
 
 ---
+
+## Training
+yolo detect train data=data.yaml model=yolov8n.pt epochs=50 imgsz=640 batch=2
